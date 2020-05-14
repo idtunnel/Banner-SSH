@@ -1,10 +1,9 @@
 #!/bin/bash
 # Created by Mei 2020
-# Modified by IDTunnel
+# Modified by IDTunnel Baner SSH
 
 
-wget -O /etc/banner-akun "https://raw.githubusercontent.com/kumpulanremaja/Centos-SSH/master/banner"
-chmod +x banner
+wget -O /etc/banner-akun "https://raw.githubusercontent.com/idtunnel/Banner-SSH/master/banner"
 
 cd
 #banner SSH OpenSSH
